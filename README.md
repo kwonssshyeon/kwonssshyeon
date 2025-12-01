@@ -12,7 +12,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Java 기반 라이브러리 개발 및 Maven Central 배포  
+- Java 기반 라이브러리 개발
 - MVC 기반 서비스 개발 경험 다수  
 - 데이터 모델링, 인덱스 설계·튜닝, 고급 JOIN/Subquery 작성 가능  
 - Transaction, Isolation, MVCC 동작 원리 이해  
