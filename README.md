@@ -14,7 +14,7 @@
 
 - Java 기반 라이브러리 개발
 - MVC 기반 서비스 개발 경험 다수  
-- 데이터 모델링, 인덱스 설계·튜닝, 고급 JOIN/Subquery 작성 가능  
+- 데이터 모델링, 인덱스 설계, JOIN/Subquery 작성 가능  
 - Transaction, Isolation, MVCC 동작 원리 이해  
 + _Node.js(실시간 서버), Python(FastAPI/Flask)_ 활용 경험
 ---
@@ -25,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - 테스트·배포 자동화, 스케줄 기반 작업 운영  
-- EC2, RDS, S3, ELB, Lambda, CloudWatch 구성 및 운영  
+- EC2, RDS, S3, ALB, Lambda, CloudWatch 구성 및 운영  
 - Docker 이미지 관리, 네트워크/볼륨 구성 가능  
 + Prometheus + Grafana 기반 운영 지표 모니터링  
 
